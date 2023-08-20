@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(36, 28, 28);
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Handjet', cursive;
+    font-size: 8rem;
+    color: #4ECCD2;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCD2;
+    font-family: 'Handjet', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+
+  .dice {
+    text-align: center;
+    display: inline-block;
+  }
+  
+.roll-container {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.roll{
+  background-color: #4CAF50;
+  color: #EEEEEE;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.roll:hover{
+  background-color: #45A049;
+}
+  
+  footer {
+    margin-top: 3%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  }
+  
